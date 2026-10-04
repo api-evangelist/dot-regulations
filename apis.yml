@@ -31,7 +31,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dot-regulations.png
 tags:
   - Compliance
-  - Federal-Government
+  - Federal Government
   - Regulations
   - Safety
   - Transportation
@@ -41,6 +41,7 @@ tags_raw:
   - Regulations
   - Safety
   - Transportation
+  - Federal-Government
 url: https://www.transportation.gov/regulations
 created: '2025-01-01'
 modified: '2026-04-28'
